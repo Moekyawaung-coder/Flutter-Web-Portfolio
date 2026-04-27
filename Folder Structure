@@ -1,0 +1,19 @@
+01-Flutter-Web-Portfolio/
+├─ lib/
+│  ├─ main.dart
+│  ├─ pages/
+│  │  ├─ home_page.dart
+│  │  ├─ about_page.dart
+│  │  ├─ skills_page.dart
+│  │  ├─ projects_page.dart
+│  │  └─ contact_page.dart
+│  └─ widgets/
+│     ├─ header.dart
+│     ├─ footer.dart
+│     └─ project_card.dart
+├─ assets/
+│  ├─ images/
+│  │   └─ profile.png
+│  └─ icons/
+├─ pubspec.yaml
+└─ README.md
